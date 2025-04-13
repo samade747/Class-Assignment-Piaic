@@ -15,7 +15,9 @@ Identity operators
 
 Membership operators
 
-Bitwise operators  
+Bitwise operators   
+
+https://github.com/samade747/Class-Assignment-Piaic/tree/main/Class%2002%20-%20March%2003
 
 
 https://github.com/samade747/python-piaic-learning/tree/main/data/giaicassginments/AssignmentSubmissionClass02March03/Assignment2
