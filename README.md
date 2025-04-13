@@ -40,4 +40,27 @@ Lesson 09: Exception Handling
 
 Lesson 10: File Handling
 
-Lesson 11: The Math & Date Time Calender
+Lesson 11: The Math & Date Time Calender  
+
+
+
+
+Class 5th Assignment:
+
+Explore: https://www.ycombinator.com/  
+
+https://www.linkedin.com/posts/samaddeveloper_everything-they-teach-at-y-combinator-in-activity-7315429829623918594-6zSi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4Fg6oBEOSMGBRJ_bgL8rEWSfSh2eAZsYQ
+
+
+
+Create an Account on ProductHunt & Start Exploring: https://www.producthunt.com/  
+
+https://www.producthunt.com/@samade747
+
+
+Watch the Following Startup Series:
+https://youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&si=BE1aizzidhL5a1gQ
+Y Combinator
+
+
+
